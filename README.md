@@ -26,7 +26,7 @@ Commits: Building something amazing...
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#1a1b26" src="https://via.placeholder.com/15/1a1b26/000000?text=+" width="25" height="20" /><img alt="#7aa2f7" src="https://via.placeholder.com/15/7aa2f7/000000?text=+" width="25" height="20" /><img alt="#bb9af7" src="https://via.placeholder.com/15/bb9af7/000000?text=+" width="25" height="20" /><img alt="#2ac3de" src="https://via.placeholder.com/15/2ac3de/000000?text=+" width="25" height="20" /><img alt="#9ece6a" src="https://via.placeholder.com/15/9ece6a/000000?text=+" width="25" height="20" />
+  <img src="https://via.placeholder.com/25x20/1a1b26/1a1b26.png" alt="#1a1b26" /><img src="https://via.placeholder.com/25x20/7aa2f7/7aa2f7.png" alt="#7aa2f7" /><img src="https://via.placeholder.com/25x20/bb9af7/bb9af7.png" alt="#bb9af7" /><img src="https://via.placeholder.com/25x20/2ac3de/2ac3de.png" alt="#2ac3de" /><img src="https://via.placeholder.com/25x20/9ece6a/9ece6a.png" alt="#9ece6a" />
 </p>
 
 <br clear="left"/>
