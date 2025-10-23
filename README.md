@@ -2,29 +2,27 @@
 > neofetch
 ```
 
-<img align="left" src="assets/profile-image.png" alt="Description" width="320" />
+<img align="left" src="assets/profile-image.jpeg" alt="Description" width="320" />
 
 ```csharp
-jayanthneelaiahgari@github
+jayanthwritescode@github
 ---------------------------
 OS: Ubuntu 22.04 LTS x86_64
 Shell: bash 5.1.16
 Pronouns: He/Him
 Location: Bengaluru, Karnataka, IN
-University: Manipal University Jaipur
-Degree: B.Tech CSE (AI/ML) + BS Data Science (IIT Madras)
+Education:
+           B.Tech CSE (AI/ML) - Manipal University Jaipur
+           BS Data Science - IIT Madras
 Languages: Python, Java, C,
            JavaScript, HTML/CSS
-Specialization: Cybersecurity, AI/ML,
-                Full Stack Development
+Specialization: Cybersecurity, AI/ML
 Tools: Linux, Metasploit, Burp Suite,
        React, Node.js, MongoDB
-Currently Learning: Advanced Penetration Testing,
-                    Cloud Security, Three.js
+Currently Learning: ML
 Achievements: 4x Hackathon Winner,
               Goldman Sachs Hackathon Semi-Finalist
 Commits: Building something amazing...
-Discord: jayanth#0000
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -84,10 +82,10 @@ Current Roles:
   <a href="mailto:jayanthneelaiahgari@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/jayanth-neelaiahgari">
+  <a href="https://linkedin.com/in/jayanthneelaiahgari">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/jayanthneelaiahgari">
+  <a href="https://github.com/jayanthwritescode">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
