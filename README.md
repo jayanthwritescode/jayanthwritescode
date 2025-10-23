@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="assets/profile-image.jpeg" alt="Description" width="430" />
+<img align="left" src="assets/profile-image.jpeg" alt="Description" width="410" />
 
 ```csharp
 jayanthwritescode@github
@@ -60,7 +60,6 @@ $ cat contact.txt
 
 ```ini
 [contact]
-email = jayanthneelaiahgari@gmail.com
 linkedin = linkedin.com/in/jayanthneelaiahgari
 leetcode = leetcode.com/u/njayanth25
 ```
