@@ -26,7 +26,11 @@ Commits: Building something amazing...
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://via.placeholder.com/25x20/1a1b26/1a1b26.png" alt="#1a1b26" /><img src="https://via.placeholder.com/25x20/7aa2f7/7aa2f7.png" alt="#7aa2f7" /><img src="https://via.placeholder.com/25x20/bb9af7/bb9af7.png" alt="#bb9af7" /><img src="https://via.placeholder.com/25x20/2ac3de/2ac3de.png" alt="#2ac3de" /><img src="https://via.placeholder.com/25x20/9ece6a/9ece6a.png" alt="#9ece6a" />
+  <img src="https://img.shields.io/badge/-%231a1b26-1a1b26?style=flat-square" alt="color-1a1b26"/>
+  <img src="https://img.shields.io/badge/-%237aa2f7-7aa2f7?style=flat-square" alt="color-7aa2f7"/>
+  <img src="https://img.shields.io/badge/-%23bb9af7-bb9af7?style=flat-square" alt="color-bb9af7"/>
+  <img src="https://img.shields.io/badge/-%232ac3de-2ac3de?style=flat-square" alt="color-2ac3de"/>
+  <img src="https://img.shields.io/badge/-%239ece6a-9ece6a?style=flat-square" alt="color-9ece6a"/>
 </p>
 
 <br clear="left"/>
