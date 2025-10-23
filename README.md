@@ -26,11 +26,11 @@ Commits: Building something amazing...
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-%231a1b26-1a1b26?style=flat-square" alt="color-1a1b26"/>
-  <img src="https://img.shields.io/badge/-%237aa2f7-7aa2f7?style=flat-square" alt="color-7aa2f7"/>
-  <img src="https://img.shields.io/badge/-%23bb9af7-bb9af7?style=flat-square" alt="color-bb9af7"/>
-  <img src="https://img.shields.io/badge/-%232ac3de-2ac3de?style=flat-square" alt="color-2ac3de"/>
-  <img src="https://img.shields.io/badge/-%239ece6a-9ece6a?style=flat-square" alt="color-9ece6a"/>
+  <img src="https://img.shields.io/badge/-1a1b26?style=for-the-badge&color=1a1b26" height="25" alt=""/>
+  <img src="https://img.shields.io/badge/-7aa2f7?style=for-the-badge&color=7aa2f7" height="25" alt=""/>
+  <img src="https://img.shields.io/badge/-bb9af7?style=for-the-badge&color=bb9af7" height="25" alt=""/>
+  <img src="https://img.shields.io/badge/-2ac3de?style=for-the-badge&color=2ac3de" height="25" alt=""/>
+  <img src="https://img.shields.io/badge/-9ece6a?style=for-the-badge&color=9ece6a" height="25" alt=""/>
 </p>
 
 <br clear="left"/>
@@ -52,30 +52,6 @@ class Jayanth:
 
 me = Jayanth()
 me.say_hi()
-```
-
----
-
-### 🛡️ Cybersecurity Arsenal
-
-```bash
-$ ls ~/tools/
-├── Reconnaissance/    → Nmap, Burp Suite, OSINT frameworks
-├── Exploitation/      → Metasploit, SQLMap, Custom scripts
-├── Network Security/  → Firewalls, VPNs, Wireshark
-└── Hardening/        → Linux security, Access control, Encryption
-```
-
----
-
-### 🤝 Community Involvement
-
-```yaml
-Current Roles:
-  - Corporate & Alumni Relations Coordinator @ IAESTE India LC MUJ
-  - Curations Junior Committee @ Finance Club MUJ
-  - Promotions & Memberships Coordinator @ Finance Club MUJ
-  - Campus Ambassador @ Perplexity
 ```
 
 ---
