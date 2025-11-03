@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="assets/profile-image.jpeg" alt="Description" width="410" />
+<img align="left" src="assets/profile-image.jpeg" alt="Description" width="390" />
 
 ```csharp
 jayanthwritescode@github
