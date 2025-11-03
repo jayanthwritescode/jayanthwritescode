@@ -20,7 +20,7 @@ Tools: Linux, Metasploit, Burp Suite,
        React, Node.js, MongoDB
 Currently Learning: ML
 Achievements: 4x Hackathon Winner,
-              Rajyapuraskar Award - BSG
+              Rajyapuraskar Award - Bharat Scouts & Guides
               Goldman Sachs Hackathon '25 Semi-Finalist
 Commits: Building something amazing...
 ```
@@ -61,7 +61,6 @@ $ cat contact.txt
 ```ini
 [contact]
 linkedin = linkedin.com/in/jayanthneelaiahgari
-leetcode = leetcode.com/u/njayanth25
 ```
 
 ---
