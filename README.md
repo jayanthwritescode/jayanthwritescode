@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="assets/profile-image.jpeg" alt="Description" width="390" />
+<img align="left" src="assets/profile-image.jpeg" alt="Description" width="410" />
 
 ```csharp
 jayanthwritescode@github
@@ -20,7 +20,7 @@ Tools: Linux, Metasploit, Burp Suite,
        React, Node.js, MongoDB
 Currently Learning: ML
 Achievements: 4x Hackathon Winner,
-              Rajyapuraskar Award - Bharat Scouts & Guides
+              Rajyapuraskar Award - BSG
               Goldman Sachs Hackathon '25 Semi-Finalist
 Commits: Building something amazing...
 ```
