@@ -75,5 +75,5 @@ leetcode = leetcode.com/u/njayanth25
 </p>
 
 <p align="center">
-  <i>[![An image of @jayanthwritescode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayanthwritescode)](https://holopin.io/@jayanthwritescode)</i>
+  [![An image of @jayanthwritescode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayanthwritescode)](https://holopin.io/@jayanthwritescode)
 </p>
