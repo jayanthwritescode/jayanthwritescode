@@ -73,3 +73,7 @@ leetcode = leetcode.com/u/njayanth25
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
+
+<p align="center">
+  <i>[![An image of @jayanthwritescode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayanthwritescode)](https://holopin.io/@jayanthwritescode)</i>
+</p>
